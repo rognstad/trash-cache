@@ -3,8 +3,6 @@
 
 # The rest of the file is from GitHub's standard ignore file for node.js projects
 
-
-
 # Logs
 logs
 *.log
