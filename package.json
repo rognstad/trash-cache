@@ -1,7 +1,7 @@
 {
-  "author": "YOU <YOU@example.com>",
-  "name": "my_actionhero_project",
-  "description": "my actionhero project",
+  "author": "Matthew Rognstad <rognstad@gmail.com>",
+  "name": "trash-cache",
+  "description": "Trash Cache makes it easy to find and clear the Akamai cache of all the assets used on a particular web page",
   "version": "0.0.1",
   "engines": {
     "node": ">=0.10.0"
@@ -12,7 +12,7 @@
     "grunt": "latest",
     "promise": "^7.0.1",
     "request": "^2.55.0",
-    "recursive-fs": "^0.1.4"
+    "node-phantom-simple": "^1.2.0"
   },
   "devDependencies": {
     "mocha": "latest",
