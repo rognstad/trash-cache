@@ -1,6 +1,5 @@
 var phantom = require('node-phantom-simple');
 var Promise = require('promise');
-var recursivefs = require('recursive-fs');
 var request = require('request');
 
 exports.trashCache = {
